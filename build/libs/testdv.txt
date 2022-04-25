@@ -1,0 +1,10 @@
+#format : request [no] [arrivalTime] [sector] [track] [size]
+
+request 0 0.0 3 20 25600
+request 1 10 6 183 1024
+request 2 15 9 37 1024
+request 3 20 12 122 1024
+request 4 25 15 14 1024
+request 5 30 20 124 1024
+request 6 35 25 65 1024
+request 7 40 30 67 1024
