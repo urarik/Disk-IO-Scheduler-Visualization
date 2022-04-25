@@ -28,8 +28,8 @@ FCFS, SCAN, N-step SCAN, SATF 등을 지원합니다.
 <img src="imgs/단순실험결과.PNG" />
 
 heavyload system에서 실험 결과 (무작위 데이터 생성)
-<img src="imgs/heavyload 실험결과.PNG" />
-<img src="imgs/Arm stickness.PNG" />
+<img src="imgs/heavyload 시스템 결과.PNG" />
+<img size="480x240" src="imgs/Arm stickness.PNG" />
 
 n=1,5,10,50,100,10000일 때 N-step SCAN 응답 시간 분포도
 * x는 시간, y는 처리 수
